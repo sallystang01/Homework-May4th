@@ -1,0 +1,9 @@
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array_Process.Form1.resources
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array_Process.Properties.Resources.resources
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array Process.csproj.GenerateResource.Cache
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array Process.csproj.CoreCompileInputs.cache
+C:\Data\Homework-May4th\Array Process\Array Process\bin\Debug\Array Process.exe.config
+C:\Data\Homework-May4th\Array Process\Array Process\bin\Debug\Array Process.exe
+C:\Data\Homework-May4th\Array Process\Array Process\bin\Debug\Array Process.pdb
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array Process.exe
+C:\Data\Homework-May4th\Array Process\Array Process\obj\Debug\Array Process.pdb
